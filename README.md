@@ -26,9 +26,10 @@ Data: ride_data.csv, city_data.csv
 
 ## Results
 
-The data represents totals for the year 2019, The image below is a view of the data by city type.  Calculating totals for drivers, fares, and rides for each city type allowed the calculation of average fare per ride and average fare per driver.
+The data represents totals for the year 2019, The image below is a view of the data by city type.  Calculating totals for drivers, fares, and rides for each city type allowed the calculation of average fare per ride and average fare per driver.  
 
-![PyBer_summary_df](https://user-images.githubusercontent.com/108758105/186734046-971f2788-9b68-4c35-9b34-67eb7474ede1.png)
+![PyBer_summary_df](https://user-images.githubusercontent.com/108758105/186734046-971f2788-9b68-4c35-9b34-67eb7474ede1.png)![Fig6](https://user-images.githubusercontent.com/108758105/186740597-55414a7b-5767-48d2-999f-03b039b14327.png)
+
 
 
 
