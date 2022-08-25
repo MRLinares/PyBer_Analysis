@@ -20,7 +20,8 @@ How ride-share data differs by city type and how it can be levaraged to make dec
 
 ### Resources:
 
-
+Software: Python, Pandas, Matplotlib, Anaconda, and Jupyter Notebook.
+Data: ride_data.csv, city_data.csv
 
 Overview of the analysis: Explain the purpose of the new analysis.
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
