@@ -50,8 +50,8 @@ Below is a view of weekly fare totals by city type which was accomplished by gro
 
 ## Summary
 
-President's week is where every city type experiences a spike in revenue.  I recommend increasing fares this week or making more cars available to see whethere we are at market equilibrium or we can further optimize profits.  
+President's week is where every city type experiences a spike in revenue.  I recommend increasing fares this week or making more cars available to see whether we are at market equilibrium or we can further optimize profits.  
 
-While the Rural market may represent a small fraction of total fares, the high fare per ride and even higher fare per driver numbers represent a promising opportunity.  Sending more drivers during these peak times may result in exponential profit growth.  The New Year, for example, brought the lowest revenue for the Suburban and Urban market, resources can be re-allocated for this week and placed into Rural markets to see if can boost revenue., Or maybe this is an opportunity for higher-level fleet maintenance and safety inspections.
+While the Rural market may represent a small fraction of total fares, the high fare per ride and even higher fare per driver numbers represent a promising opportunity.  Sending more drivers during these peak times may result in exponential profit growth.  The New Year, for example, brought the lowest revenue for the Suburban and Urban market, resources can be re-allocated for this week and placed into Rural markets to see if can boost revenue.  Or maybe this is an opportunity for higher-level fleet maintenance and safety inspections.
 
-Easter seems like a possible growth opporunity for the Suburban market given the large spike leading up to it and after (many times a recess for schools). Given the proximity to the Urban markets, resources can easily be sent across town to provide a possible boost in profits, especially given the higher fare per driver and ride.
+Easter seems like a possible growth opporunity for the Suburban market given the large spike leading up to it and after (many times a recess period for schools). Given the proximity to the Urban markets, resources can easily be sent across town to provide a possible boost in profits, especially given the higher fare per driver and ride.
