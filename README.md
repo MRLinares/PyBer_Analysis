@@ -26,7 +26,7 @@ Data: ride_data.csv, city_data.csv
 
 ## Results
 
-The data represents totals for the year 2019, The image below is a view of the data by city type.  Calculating totals for drivers, fares, and rides for each city type allowed the calculation of average fare per ride and average fare per driver.  The pie charts visualize the percentage of total rides and fares each market represents.  While the total rides for the Suburban and Rural markets represent 26.8% and 5%, respectively (29.8% total), they represent 37.3% in their respective share of the revenue (30.5% and 6.8%, respectively).
+The data represents totals for the year 2019, The image below is a view of the data by city type.  Calculating totals for drivers, fares, and rides for each city type allowed mw to find the average fare per ride and average fare per driver.  The pie charts visualize the percentage of total rides and fares each market represents.  While the total rides for the Suburban and Rural markets represent 26.8% and 5%, respectively (29.8% total), they represent 37.3% in their respective share of the revenue (30.5% and 6.8%, respectively).
 
 
 
@@ -50,9 +50,9 @@ Below is a view of weekly fare totals by city type which was accomplished by gro
 
 ## Summary
 
-President's week is where every city type experiences a spike
+President's week is where every city type experiences a spike in revenue.  I recommend increasing fares this week or making more cars available to see whethere we are at market equilibrium or we can further optimize profits.  While the Rural market may represent a small fraction of total fares, the high fare per ride and even higher fare per driver numbers represent a promising opportunity.  Sending more drivers during these peak times may result in exponential profit growth.
 
-The New Year brought the lowest revenue for the Suburban and Urban market, resources can be re-allocated for this week and placed into Rural markets to see if can boost revenue.
+The New Year brought the lowest revenue for the Suburban and Urban market, resources can be re-allocated for this week and placed into Rural markets to see if can boost revenue., Or maybe this is an opportunity for higher-level fleet maintenance and safety inspections.
 
 Easter seems like a possible growth opporunity for the Suburban market given the large spike leading up to it and after (many times a recess for schools).
 
